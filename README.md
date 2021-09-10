@@ -25,6 +25,6 @@ We'll require a GPU Hardware accelerator for training the model. Change the runt
 
 6.Evaluation
 
-Dataset : 
+Dataset : https://www.kaggle.com/drgilermo/face-images-with-marked-landmark-points
 
-Notebook on Kaggle : 
+Notebook on Kaggle : https://www.kaggle.com/basel99/face-landmark-detection
